@@ -1,2 +1,3 @@
-# 1st-Repository
-Practice makes progress.
+# Project (Music Player - Python)
+print("Hello!")
+print("Tried making code play music before?")
